@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+     "name": "Interstellar",
+      "isFav": true,
+      "isDel": false
+    },
+    {
+      "id": 2,
+     "name": "Gisaengchung",
+      "isFav": false,
+      "isDel": false
+    },
+    {
+      "id": 3,
+      "name": "Fight Club",
+      "isFav": false,
+      "isDel": true
+    }
+  ]
