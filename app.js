@@ -31,6 +31,7 @@ app.get("/movies", (req, res) => {
             const moviesnD= movies.filter((movies)=>movies.isDel===false);
         const movies = JSON.parse(data.toString());
 
+    
         if(moviesnD) {
             res.status(200);
             res.json(moviesnD)
